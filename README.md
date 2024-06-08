@@ -1,3 +1,7 @@
+# Inspired by Archakov Blog
+Link to tutorial https://www.youtube.com/watch?v=GQ_pTmcXNrQ
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
